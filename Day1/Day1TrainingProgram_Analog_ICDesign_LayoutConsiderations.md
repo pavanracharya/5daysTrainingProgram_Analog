@@ -26,10 +26,10 @@ DC analysis was performed to study the operating point of the circuit by sweepin
 - Operating point parameters such as drain current, VGS, VDS, and transconductance (gm) were verified.
 
 ### DC Response
-![DC Analysis](DC analysis.png)
+![DC Analysis](./DC_analysis.png)
 
 ### DC Operating Point Parameters
-![DC Operating Point](DC analysis_OP.png)
+![DC Operating Point](./DC_analysis_OP.png)
 
 ---
 
@@ -71,7 +71,8 @@ Parametric analysis was carried out by varying circuit parameters such as bias v
 - Parametric sweep helps in understanding circuit sensitivity.
 
 ### Parametric Sweep Setup
-![Parametric Analysis Setup](.parametric analysis.png)
+
+![Parametric Analysis Setup](./parametric%20analysis.png)
 
 ### Parametric Output
 ![Parametric Output](parametric_output.png)
