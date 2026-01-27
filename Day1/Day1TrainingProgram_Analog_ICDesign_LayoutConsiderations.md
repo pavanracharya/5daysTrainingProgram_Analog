@@ -1,4 +1,4 @@
-# 📅 Day 1 – CS Amplifier Analysis Using Cadence Virtuoso
+#  Day 1 – CS Amplifier Analysis Using Cadence Virtuoso
 
 ## Objective
 The objective of Day 1 was to gain hands-on experience in analog IC simulation by analyzing a basic Common Source (CS) amplifier using Cadence Virtuoso. The focus was on understanding device biasing, operating region, and small-signal behavior through DC, AC, transient, and parametric analyses.
