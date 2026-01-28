@@ -1,4 +1,4 @@
-#  Day 1 – CS Amplifier Analysis Using Cadence Virtuoso
+# Day 1 – CS Amplifier Analysis Using Cadence Virtuoso
 
 ## Objective
 The objective of Day 1 was to gain hands-on experience in analog IC simulation by analyzing a basic Common Source (CS) amplifier using Cadence Virtuoso. The focus was on understanding device biasing, operating region, and small-signal behavior through DC, AC, transient, and parametric analyses.
@@ -26,10 +26,10 @@ DC analysis was performed to study the operating point of the circuit by sweepin
 - Operating point parameters such as drain current, VGS, VDS, and transconductance (gm) were verified.
 
 ### DC Response
-![DC Analysis](./DC_analysis.png)
+![DC Analysis](./images/DC_analysis.png)
 
 ### DC Operating Point Parameters
-![DC Operating Point](./DC_analysis_OP.png)
+![DC Operating Point](./images/DC_analysis_OP.png)
 
 ---
 
@@ -43,7 +43,7 @@ AC analysis was carried out to evaluate the small-signal frequency response of t
 - Phase response shows smooth transition, indicating stable operation.
 
 ### AC Magnitude and Phase Response
-![AC Analysis](AC_ANALYSIS.png)
+![AC Analysis](./images/AC_ANALYSIS.png)
 
 ---
 
@@ -57,7 +57,7 @@ Transient analysis was performed by applying a sinusoidal input signal to the ci
 - Confirms correct biasing and linear operation.
 
 ### Transient Response
-![Transient Analysis](transient_analysis.png)
+![Transient Analysis](./images/transient_analysis.png)
 
 ---
 
@@ -71,11 +71,10 @@ Parametric analysis was carried out by varying circuit parameters such as bias v
 - Parametric sweep helps in understanding circuit sensitivity.
 
 ### Parametric Sweep Setup
-
-![Parametric Analysis Setup](./parametric%20analysis.png)
+![Parametric Analysis Setup](./images/parametric_analysis.png)
 
 ### Parametric Output
-![Parametric Output](parametric_output.png)
+![Parametric Output](./images/parametric_output.png)
 
 ---
 
