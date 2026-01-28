@@ -1,4 +1,4 @@
-# 📅 Day 2 – Differential Amplifier and OTA Design Using Cadence Virtuoso
+#  Day 2 – Differential Amplifier and OTA Design Using Cadence Virtuoso
 
 ## Objective
 The objective of Day 2 was to design and analyze a MOS differential amplifier and extend it into an Operational Transconductance Amplifier (OTA). Emphasis was placed on differential operation, biasing, small-signal gain, frequency response, transient behavior, and symbol-level testing.
