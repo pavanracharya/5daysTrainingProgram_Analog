@@ -113,7 +113,7 @@ The OTA symbol was instantiated in a separate testbench for validation.
 ### Observations
 - Differential inputs Vinp and Vinn applied through AC sources.
 - DC bias voltages:  
-  - VDD ≈ **1.8 V**  
+  - VDD ≈ **2 V**  
   - VSS = **0 V**
 - Output response matches schematic-level simulations.
 
